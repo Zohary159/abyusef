@@ -1,1 +1,1 @@
-web: gunicorn app:app
+koyeb service create --app flask-on-koyeb
